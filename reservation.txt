@@ -1,0 +1,6 @@
+2023-07-30 | Slot 2 | ZACH | zach@gmail.com | 0192238371 | 4
+2023-08-21 | Slot 4 | JAMES | james@hotmail.com | 0192228181 | 1
+2023-07-30 | Slot 2 | RYAN | ryan@outlook.com | 0192772191 | 3
+2023-08-21 | Slot 2 | DANIEL | dan@outlook.com | 2818282717 | 2
+2023-08-21 | Slot 3 | KATE | kate@gmail.com | 0192918261 | 3
+2023-08-10 | Slot 1 | IVAN | ivan@hotmail.com | 0192912819 | 1
